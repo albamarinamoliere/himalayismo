@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Página 1</title>
+<meta charset = 'utf-8'>
+<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+
+
+</head>
+
+
+<td><a<img center src= 'figuras/puma.jpeg'></td>
+
+<center><h1 style = 'text-aling;center;color:pink;'>PUMA</h1>
+
+<center><img src='../figuras/puma.jpeg'><figcaption style='text-align=center'>Puma concolor</figcaption>
+</center>
+
+
+
+
+
+
+
+<h3 style= 'color:pink;'>Distribución</h3> 
+
+<p style='color:white;'>El puma ocupa más territorio que cualquier otro animal silvestre terrestre en América. Su territorio abarca 110 grados de latitud, desde el norte del Yukón en Canadá al sur de Los Andes. Su amplia distribución se debe a su capacidad de adaptación a casi todo tipo de hábitat: se encuentra en todos los tipos de bosques, así como en las tierras bajas y desiertos montañosos. Los estudios muestran que el puma prefiere las regiones con vegetación densa, pero puede vivir con poca vegetación en zonas abiertas. Su hábitat preferido son cañones, escarpes, terrenos rocosos y la selva densa.
+El puma fue exterminado en su gran área de distribución oriental de América del Norte, con la excepción de la Florida, en los dos siglos después de la colonización europea, y se enfrenta a graves amenazas en el resto. Actualmente, se lo encuentra en la mayoría de los estados occidentales de América, las provincias canadienses de Alberta y Columbia Británica, Canadá y el territorio de Yukón. Debido a los daños que ocasiona en el ganado, es perseguido por granjeros y se ha convertido en una especie amenazada, habitando actualmente en zonas áridas.</p>
+
+<h3 style= 'color:pink;'>Biología</h3> 
+<p style='color:white;'>Los machos adultos miden entre 1.5 y 2.75 metros de largo, abarcando desde la punta de la cola hasta la nariz. Pueden pesar de 53 a 100 kilos. Lo más grandes han pesado más de 120 kg. Las hembras suelen ser de menor tamaño y peso variando entre 29 y 64 kilos.Los más próximos al Ecuador, suelen ser más pequeños que los que habitan en regiones cercanas a los polos.Su larga cola mide alrededor de un tercio de la longitud del cuerpo del puma. Sus extremidades son musculosas, cortas y fuertes que junto con la mandíbula y los colmillos, cazan exitosamente a sus presas. Posee cinco garras retráctiles en las patas delanteras que le sirven para enterrarlas en las víctimas y evitar que escapen. Con sus patas también realizan grandes saltos verticales de hasta 5.4 metros y persecuciones de carreras cortas. En saltos horizontales abarcan de 6 a 12 metros.Estos felinos alcanzan la velocidad de 55 km/h pero no está adaptado a carreras largas. Es más hábil para escalar y aunque no es muy afecto a nadar, puede realizarlo sin problema.Este animal no puede rugir a diferencia de los grandes felinos. En vez de eso, emite silbidos agudos y ronroneos como un gato doméstico. Igualmente realiza gritos que son confundidos con otros animales.</p>
+
+
+
+<h3 style= 'color:pink;'>Estado de conservación</h3> 
+
+<p style= 'color:white;'>La Unión Internacional para la Conservación de la Naturaleza (UICN), ha cambiado el estatus del puma de preocupación menor a especie casi amenazada, dejando abierta la posibilidad de que pueda ser catalogado como vulnerable cuando se disponga de más datos sobre su distribución. El puma está regulado en el Apéndice I de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES),​ lo que hace ilícito el comercio internacional de especímenes o sus partes.
+Al este del Misisipi, la única población de pumas conocida de manera inequívoca es la pantera de Florida. El Servicio de Pesca y Vida Silvestre de los Estados Unidos reconoce tanto al puma oriental y a la pantera de Florida, a los que garantiza protección bajo la Ley de Especies Amenazadas. Algunas autoridades en taxonomía han fundido ambas denominaciones en la de puma norteamericano, sin reconocer la entidad de las subespecies oriental o de Florida. El censo más reciente de la subpoblación de Florida dio 87 individuos, según informaron organismos de recuperación de la especie en 2003.​</p>
+
+
+
+
+
+
+</body>
+<ul>
+<li><a href = 'pagina1.html'>Página 1</a></li>
+<li><a href = 'pagina2.html'>Página 2</a></li>
+<li><a href = '../index.html'>Índice</a></li>
+<li><a href = 'pagina4.html'>Página 4</a></li>
+<li><a href = 'pagina5.html'>Página 5</a></li>
+<li><a href = 'pagina6.html'>Página 6 </a> </li>
+
+<ul>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
