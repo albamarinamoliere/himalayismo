@@ -1,1 +1,2 @@
 # himalayismo
+cd himalayismo
